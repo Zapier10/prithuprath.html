@@ -1,0 +1,234 @@
+.top-container{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 200px;
+}
+#image0{
+    
+    height: 200px;
+    width: 200px;
+    margin-bottom: 36px;
+}
+.Name{
+  font-family: "Playwrite NZ", cursive;
+  font-optical-sizing: auto;
+  font-weight:bolder;
+  font-style: normal;
+  font-size: 90.6px;
+  ma
+}
+.Project-name{
+  font-family: "Inconsolata", monospace;
+  font-optical-sizing: auto;
+  font-weight:bolder;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+    font-size:110px;
+    margin-bottom: 30px;
+}
+.Me{
+  font-size:17.2px;
+}
+.top1
+{
+  margin-top:20px;
+  margin-bottom: 36px;
+}
+.middle-container
+{
+  display:flex;
+  flex-direction: column;
+margin-bottom: 200px;
+
+
+}
+.t
+{
+
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 80px;
+    width: auto;
+}
+.p
+{
+  display: flex;
+  flex-direction: row;
+}
+.middle1
+{
+
+ align-self:flex-start;
+ margin-right: 500px;
+ margin-left:150px;
+ font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+    font-size:60px;
+}
+#image1
+{
+height:200px;
+width:200px;
+align-self: flex-end;
+
+}
+.middle3
+{
+  align-self: flex-start;
+  margin-left: 150px;
+  margin-right: 500px;
+  font-family: "Playwrite US Trad", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+#image2
+{
+
+  height:200px;
+  width: 200px;
+  align-self:flex-end;
+}
+
+.bottom-container
+{
+  display:flex;
+  flex-direction: column;
+  margin-bottom: 200px;
+
+}
+.bottom1
+{
+  display:flex;
+  font-family: "Playwrite DE Grund", cursive;
+  font-optical-sizing: auto;
+  font-weight:bolder;
+  font-style: normal;
+  font-size: 60px;
+  margin-left:150px;
+}
+.bottom2
+{
+  display:flex;
+  flex-direction: row;
+  margin-top: 90px;
+}
+#image3
+{
+
+  height: 200px;
+  width:200px;
+  align-self: flex-start;
+  margin-right: 500px;
+  margin-left:200px;
+}
+.b1
+{
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight:bold;
+  font-style: normal;
+  align-self: flex-end;
+}
+.codechef{
+  color:white;
+  margin-right: 20px;
+}
+.linkedin
+{
+  color:white;
+  margin-right: 20px;
+}
+.github
+{
+  color:white;
+}
+.foot
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color:darkgray;
+  height: 200px;
+
+}
+.f1
+{
+  margin-top: 100px;
+}
+#image4{
+
+  height: 100px;
+  width: 200px;
+  margin-left: 50px;
+}
+#image5{
+
+  height: 100px;
+  width: 200px;
+  margin-top: 32px;
+  margin-bottom: 20px;
+  margin-right: 50px;
+}
+.bottomost-container
+{
+  display:flex;
+  flex-direction: column;
+
+}
+.punch1
+{
+  display: flex;
+  flex-direction: row;
+  margin-left: 262px;
+
+}
+.punch2
+{
+  display: flex;
+  flex-direction: row;
+  margin-left: 320px;
+}
+.punch3
+{
+  display: flex;
+  flex-direction: row;
+  margin-left: 270px;
+}
+.bh1
+{
+  font-size: 94.6px;
+}
+.bh2
+{
+  font-family: "Playwrite AU TAS", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size: 116.5px;
+}
+.bh3
+{
+  font-size: 110.5px;
+}
+.button
+{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.btn{
+  margin-left: 46.5%;
+  margin-top: 150px;
+  margin-bottom: 150px;
+}
+.list
+{
+  font-size: 20px;
+}
